@@ -183,10 +183,6 @@ https://video.wixstatic.com/video/f21f2b_7ba2c8ab7bae42b98a2e7635400d9448/360p/m
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4fd257218da2a7653b87313c7bae6ae.webp" group-title="RÁDIOS", CBN RJ 92,5 FM - Estúdio Ao Vivo
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="1", History
-https://m3u9.ml/a3/hls1/history.m3u8?mu3zAQc9HC3GbwJq=Jb-zfR9AFaDJd62d9lRc2Q&3U1G7qaTxrPbalZnEx=1647842961
-
 ########################################################################################################################################################################################################################################################
 
 #EXTM3U
@@ -865,8 +861,8 @@ http://200.189.113.201/hls/tve.m3u8
 
 ####### TESTE #######
 
-#EXTM3U
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="1", TESTE
+https://m3u9.ml/a3/hls1/history.m3u8?mu3zAQc9HC3GbwJq=Jb-zfR9AFaDJd62d9lRc2Q&3U1G7qaTxrPbalZnEx=1647842961
 
 #EXTINF:-1 tvg-logo="https://imgur.com/aVvaYBI.jpg" group-title="Informações da Lista" ,Atualizada 28/01/2022
 http://
@@ -1292,5 +1288,3 @@ http://50.7.34.155:2200/BR/TLC_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheX
 
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS VARIEDADES" ,VIVA HD
 http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-
-
