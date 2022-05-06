@@ -2544,3 +2544,1732 @@ plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLO
 #EXTINF:-1 group-title="Rádios" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://i.imgur.com/I5y8DaH.png" tvg-name=""radio=true,Rádio Princesa FM
 plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://noasrv.caster.fm:10124/stream
 
+
+#### Lista 3 canais fechados ###
+
+#EXTM3U 
+#EXTINF:-1,RECORDTV SP FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46135
+#EXTINF:-1,RECORDTV SP HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46002
+#EXTINF:-1,RECORD TV SP ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47011
+#EXTINF:-1,RECORDTV SP HD2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45999
+#EXTINF:-1,RECORDTV SP
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45709
+#EXTINF:-1,RECORDTV SP ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197084
+#EXTINF:-1,RECORDTV SP FHD ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197085
+#EXTINF:-1,RECORDTV SP HD ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197086
+#EXTINF:-1,RECORDTV SP HD2 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197087
+#EXTINF:-1,RECORDTV SP2 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197089
+#EXTINF:-1,RECORDTV RJ HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46069
+#EXTINF:-1,RECORDTV RJ ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197090
+#EXTINF:-1,RECORDTV RJ HD ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197091
+#EXTINF:-1,RECORD RJ HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194262
+#EXTINF:-1,RECORD RJ ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/77934
+#EXTINF:-1,RECORDTV RJ
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46070
+#EXTINF:-1,RECORD TV ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46937
+#EXTINF:-1,RECORDTV BA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46076
+#EXTINF:-1,RECORDTV BA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46077
+#EXTINF:-1,RECORDTV BELÉM HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46143
+#EXTINF:-1,RECORDTV BELÉM 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46144
+#EXTINF:-1,RECORDTV DF HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46078
+#EXTINF:-1,RECORDTV DF
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46079
+#EXTINF:-1,RECORD TV GOIANIA FHD H265.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194271
+#EXTINF:-1,RECORD TV GOIANIA HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194272
+#EXTINF:-1,RECORDTV GO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46145
+#EXTINF:-1,RECORDTV GO ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197092
+#EXTINF:-1,RECORDTV GO HD ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197093
+#EXTINF:-1,RECORDTV GO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46146
+#EXTINF:-1,RECORD MINAS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194259
+#EXTINF:-1,RECORDTV MG HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46071
+#EXTINF:-1,RECORDTV MG
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46072
+#EXTINF:-1,RECORDTV MARANHÃO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/219415
+#EXTINF:-1,RECORD RS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194264
+#EXTINF:-1,RECORDTV RS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46080
+#EXTINF:-1,RECORDTV RS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46081
+#EXTINF:-1,RECORDTV SANTA CATARINA 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47131
+#EXTINF:-1,RECORD BH MINAS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194254
+#EXTINF:-1,RECORD ITAPOAN - BAHIA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194256
+#EXTINF:-1,RECORD ITAPOAN HD - BAHIA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194257
+#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194265
+#EXTINF:-1,RECORD SP FHD H265.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194267
+#EXTINF:-1,RECORD RS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194263
+#EXTINF:-1,RECORD SP HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194268
+#EXTINF:-1,RECORD TV.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194269
+#EXTINF:-1,RECORD TV BELEM HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194270
+#EXTINF:-1,RECORD TV MINAS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194274
+#EXTINF:-1,RECORD TV SANTA CATARINA HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194277
+#EXTINF:-1,TV RECORD THATHI CAMPINAS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194399
+#EXTINF:-1,RECORD MANAUS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194258
+#EXTINF:-1,TV RECORD THATHI CAMPINAS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194400
+#EXTINF:-1,SBT FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45710
+#EXTINF:-1,SBT HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46007
+#EXTINF:-1,SBT ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47055
+#EXTINF:-1,SBT ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46976
+#EXTINF:-1,SBT SP INTERIOR
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46008
+#EXTINF:-1,SBT
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46006
+#EXTINF:-1,SBT RJ FHD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194290
+#EXTINF:-1,SBT RJ HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/157484
+#EXTINF:-1,SBT TERESINA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/154221
+#EXTINF:-1,SBT SERRA DOURADA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194840
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194841
+#EXTINF:-1,SBT SERRA DOURADA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194839
+#EXTINF:-1,SBT BSB HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194287
+#EXTINF:-1,SBT PARANA HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194289
+#EXTINF:-1,SBT RS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194291
+#EXTINF:-1,SBT SERGIPE -TV APERIPER HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194292
+#EXTINF:-1,SBT SP FHD H264.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194293
+#EXTINF:-1,SBT SP HD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194294
+#EXTINF:-1,SBT VTV CAMPINAS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194295
+#EXTINF:-1,SBT-MG-TV ALTEROSA FHD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194296
+#EXTINF:-1,SBT MARANHÃO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/219413
+#EXTINF:-1,SBT PIAUI
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/219414
+#EXTINF:-1,BAND SP FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45688
+#EXTINF:-1,BAND SP HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45852
+#EXTINF:-1,BAND SP
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45851
+#EXTINF:-1,BAND ALTERNATIVA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47001
+#EXTINF:-1,BAND TV ALTERNATIVA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46946
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45797
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45798
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45799
+#EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45800
+#EXTINF:-1,GLOBO TV GAZETA SUL ES HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45801
+#EXTINF:-1,GLOBO TV GAZETA VITORIA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45776
+#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45777
+#EXTINF:-1,GLOBO TV GAZETA VITORIA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45778
+#EXTINF:-1,REDE TV FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45720
+#EXTINF:-1,REDE TV! HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46004
+#EXTINF:-1,REDE TV!
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46003
+#EXTINF:-1,REDE TV ALTERNATIVA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47054
+#EXTINF:-1,REDE TV ALTERNATIVA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46939
+#EXTINF:-1,TV CULTURA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45719
+#EXTINF:-1,TV CULTURA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46067
+#EXTINF:-1,TV CULTURA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46066
+#EXTINF:-1,FUTURA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45644
+#EXTINF:-1,FUTURA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45922
+#EXTINF:-1,FUTURA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45921
+#EXTINF:-1,TV GAZETA SP FHD 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46169
+#EXTINF:-1,TV GAZETA SP  HD 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46047
+#EXTINF:-1,TV GAZETA SP
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46170
+#EXTINF:-1,NHK FHD (JAPONES).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194217
+#EXTINF:-1,NHK HD (JAPONES).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194218
+#EXTINF:-1,NHK
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128157
+#EXTINF:-1,CANAL DO BOI
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46086
+#EXTINF:-1,CANAL RURAL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46136
+#EXTINF:-1,NBR
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45973
+#EXTINF:-1,REDE BRASIL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47091
+#EXTINF:-1,SESCTV 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47150
+#EXTINF:-1,TERRA VIVA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46033
+#EXTINF:-1,TV BRASIL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46044
+#EXTINF:-1,TV CÂMARA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46045
+#EXTINF:-1,TV DIARIO FORTALEZA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46082
+#EXTINF:-1,TV DIÁRIO FORTALEZA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46083
+#EXTINF:-1,TV DIÁRIO FORTALEZA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45723
+#EXTINF:-1,TV ESCOLA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46046
+#EXTINF:-1,TV JUSTIÇA 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46042
+#EXTINF:-1,TV SENADO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46041
+#EXTINF:-1,ISN PORTAL - BAIXADA SANTISTA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/85849
+#EXTINF:-1,PLUTO TV FILMES AÇÃO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87952
+#EXTINF:-1,PLUTO TV FILMES SUSPENSE
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87953
+#EXTINF:-1,PLUTO TV CINE SUCESSOS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87954
+#EXTINF:-1,PLUTO TV CINE COMÉDIA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87955
+#EXTINF:-1,PLUTO TV CINE DRAMA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87956
+#EXTINF:-1,PLUTO TV CINE TERROR
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87957
+#EXTINF:-1,PLUTO TV CINE FAMÍLIA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87958
+#EXTINF:-1,PLUTO TV FILMES NACIONAIS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87959
+#EXTINF:-1,PLUTO TV SÉRIES
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87960
+#EXTINF:-1,PLUTO TV ANIME
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87961
+#EXTINF:-1,PLUTO TV RETRÔ
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87962
+#EXTINF:-1,BET PLUTO TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87963
+#EXTINF:-1,PARAMOUNT+ APRESENTA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87964
+#EXTINF:-1,MTV PLUTO TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87965
+#EXTINF:-1,PEOPLE ARE AWESOME
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87966
+#EXTINF:-1,MTV ARE YOU THE ONE?
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87967
+#EXTINF:-1,PLUTO TV NATUREZA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87968
+#EXTINF:-1,PLUTO TV INVESTIGAÇÃO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87969
+#EXTINF:-1,PLUTO TV VIDA REAL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87970
+#EXTINF:-1,TASTEMADE
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87971
+#EXTINF:-1,LOUPE
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87972
+#EXTINF:-1,PLUTO TV FASHIONBOX
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87973
+#EXTINF:-1,PLUTO TV JUNIOR
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87974
+#EXTINF:-1,PLUTO TV KIDS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/87975
+#EXTINF:-1,AGROBRASIL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128144
+#EXTINF:-1,COM BRASIL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128145
+#EXTINF:-1,TV THATHI RECORDTV CAMPINAS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128151
+#EXTINF:-1,BAND MAIS CAMPINAS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128152
+#EXTINF:-1,SBT VTV CAMPINAS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128153
+#EXTINF:-1,SHOPTIME
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128154
+#EXTINF:-1,CNT
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128155
+#EXTINF:-1,TV ASSEMBLEIA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128156
+#EXTINF:-1,TV JOCKEY
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128158
+#EXTINF:-1,TVT
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128161
+#EXTINF:-1,TELESUR
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128164
+#EXTINF:-1,SESC TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128165
+#EXTINF:-1,REDE MOSAICO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128166
+#EXTINF:-1,HELLO TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128167
+#EXTINF:-1,BAND BAHIA HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193907
+#EXTINF:-1,BAND BSB HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193908
+#EXTINF:-1,BAND CAMPINAS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193909
+#EXTINF:-1,BAND CAMPINAS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193910
+#EXTINF:-1,BAND MINAS HD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193912
+#EXTINF:-1,BAND MINAS FHD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193911
+#EXTINF:-1,BAND RJ FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193915
+#EXTINF:-1,BAND RJ HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193916
+#EXTINF:-1,BAND RS HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193917
+#EXTINF:-1,BAND SERGIPE HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193918
+#EXTINF:-1,BAND SP FHD H264.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193919
+#EXTINF:-1,BANDEIRANTES.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/193921
+#EXTINF:-1,GAZETA HD SP.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194082
+#EXTINF:-1,TELECINE TOUCH HD ( CANAIS LEGENDADOS).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194354
+#EXTINF:-1,TV ALTEROSA HD [SBT MG].
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194366
+#EXTINF:-1,TV ARATU HD SBT BAHIA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194376
+#EXTINF:-1,TV ASA BRANCA FHD (GLOBO CARUARU-PE).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194377
+#EXTINF:-1,TV ASA BRANCA HD (GLOBO-CARUARU - PE).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194378
+#EXTINF:-1,TV BRASIL HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194380
+#EXTINF:-1,TV CABUGI FHD .
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194384
+#EXTINF:-1,TV CABRALIA HD BAHIA RECORD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194383
+#EXTINF:-1,TV CABUGI HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194385
+#EXTINF:-1,TV CENTRO AMERICA CUIABA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194386
+#EXTINF:-1,TV INTEGRA√Á√ÉO DIVIN√ÌPOLIS FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194395
+#EXTINF:-1,TV INTEGRA√Á√ÉO UBERABA FHD - GLOBO.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194397
+#EXTINF:-1,TV INTEGRA√Á√ÉO UBERABA HD - GLOBO.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194398
+#EXTINF:-1,TV RIO SUL HD ( GLOBO INTERIOR RJ).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194401
+#EXTINF:-1,TV SANTA CRUZ TV BAHIA HD -GLOBO-.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194402
+#EXTINF:-1,TV TEM BAURU FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194403
+#EXTINF:-1,TV TEM BAURU HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194404
+#EXTINF:-1,TV TEM ITAPE FHD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194405
+#EXTINF:-1,TV TEM ITAPE HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194406
+#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194407
+#EXTINF:-1,TV TRIBUNA FHD (GLOBO SANTOS).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194411
+#EXTINF:-1,TV TEM SOROCABA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194408
+#EXTINF:-1,TV TRIBUNA HD (GLOBO SANTOS).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194412
+#EXTINF:-1,TV TRIBUNA SANTOS.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194413
+#EXTINF:-1,TV VANGUARDA DOS CAMPOS.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194414
+#EXTINF:-1,TV VANGUARDA FHD (SAO JOSE DOS CAMPOS ).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194415
+#EXTINF:-1,TV VANGUARDA HD (SAO JOSE DOS CAMPOS).
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194416
+#EXTINF:-1,TV VERDES MARES FORTALEZA.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194417
+#EXTINF:-1,TV VERDES MARES HD CE.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194418
+#EXTINF:-1,GLOBO NEWS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45698
+#EXTINF:-1,GLOBO NEWS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45926
+#EXTINF:-1,GLOBO NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45925
+#EXTINF:-1,GLOBO NEWS ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47069
+#EXTINF:-1,GLOBO NEWS ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46914
+#EXTINF:-1,CNN BRASIL FHD 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47134
+#EXTINF:-1,CNN BRASIL FHD 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46166
+#EXTINF:-1,CNN BRASIL HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46167
+#EXTINF:-1,CNN BRASIL 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46168
+#EXTINF:-1,CNN BRASIL ALTERNATIVO HD 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47135
+#EXTINF:-1,CNN BRASIL ALTERNATIVO 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47136
+#EXTINF:-1,BAND NEWS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45621
+#EXTINF:-1,BAND NEWS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45854
+#EXTINF:-1,BAND NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45853
+#EXTINF:-1,BAND NEWS ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47078
+#EXTINF:-1,BAND NEWS ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46898
+#EXTINF:-1,RECORD NEWS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45671
+#EXTINF:-1,RECORD NEWS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46001
+#EXTINF:-1,RECORD NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46000
+#EXTINF:-1,RECORD NEWS ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47077
+#EXTINF:-1,RECORD NEWS ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46938
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/159042
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/159043
+#EXTINF:-1,JOVEM PAN NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/159044
+#EXTINF:-1,JOVEM PAN NEWS 4K
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/159045
+#EXTINF:-1,JOVEM PAN NEWS H265
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/159046
+#EXTINF:-1,CNN INTERNACIONAL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128162
+#EXTINF:-1,CNN ESPANHOL
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128163
+#EXTINF:-1,24 NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128174
+#EXTINF:-1,FOX NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/128176
+#EXTINF:-1,CLIMA TEMPO FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197537
+#EXTINF:-1,CNN ESPANHOL FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197538
+#EXTINF:-1,CNN FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197539
+#EXTINF:-1,DEUTSCH WEELE FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197540
+#EXTINF:-1,SPORTV FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45837
+#EXTINF:-1,SPORTV HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45840
+#EXTINF:-1,SPORTV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46013
+#EXTINF:-1,SPORTV 2 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45725
+#EXTINF:-1,SPORTV 2 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45838
+#EXTINF:-1,SPORTV 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46014
+#EXTINF:-1,SPORTV 3 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45726
+#EXTINF:-1,SPORTV 3 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45839
+#EXTINF:-1,SPORTV 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46015
+#EXTINF:-1,COMBATE FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45690
+#EXTINF:-1,COMBATE FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47128
+#EXTINF:-1,COMBATE HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45872
+#EXTINF:-1,COMBATE
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45871
+#EXTINF:-1,COMBATE ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46950
+#EXTINF:-1,ESPN FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45693
+#EXTINF:-1,ESPN HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45901
+#EXTINF:-1,ESPN
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45900
+#EXTINF:-1,ESPN 2 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45694
+#EXTINF:-1,ESPN 2 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45904
+#EXTINF:-1,ESPN 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45897
+#EXTINF:-1,ESPN 3 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45637
+#EXTINF:-1,ESPN 3 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45899
+#EXTINF:-1,ESPN 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45898
+#EXTINF:-1,ESPN 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45697
+#EXTINF:-1,ESPN 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45918
+#EXTINF:-1,ESPN 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45917
+#EXTINF:-1,ESPN EXTRA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45638
+#EXTINF:-1,ESPN EXTRA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45903
+#EXTINF:-1,ESPN EXTRA
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45902
+#EXTINF:-1,FOX SPORTS 2 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45920
+#EXTINF:-1,FOX SPORTS 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45919
+#EXTINF:-1,BAND SPORTS FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45622
+#EXTINF:-1,BAND SPORTS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45856
+#EXTINF:-1,BAND SPORTS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45855
+#EXTINF:-1,SPORTV FHD²
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47110
+#EXTINF:-1,SPORTV HD²
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47111
+#EXTINF:-1,SPORTV²
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47112
+#EXTINF:-1,SPORTV 3 FHD²
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47113
+#EXTINF:-1,SPORTV 3 HD²
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47114
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46978
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46942
+#EXTINF:-1,SPORTV ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47035
+#EXTINF:-1,SPORTV 2 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47033
+#EXTINF:-1,SPORTV 3 ALTERNATIVO  HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47034
+#EXTINF:-1,SPORTV 3 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46943
+#EXTINF:-1,FOX SPORTS HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47116
+#EXTINF:-1,ESPN 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47115
+#EXTINF:-1,FOX SPORTS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47117
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47118
+#EXTINF:-1,FOX SPORTS 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47120
+#EXTINF:-1,ESPN FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47121
+#EXTINF:-1,ESPN HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47122
+#EXTINF:-1,ESPN 2 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47123
+#EXTINF:-1,ESPN 2 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47124
+#EXTINF:-1,ESPN 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47125
+#EXTINF:-1,ESPN EXTRA FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47126
+#EXTINF:-1,ESPN EXTRA HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47127
+#EXTINF:-1,ESPN EXTRA 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47130
+#EXTINF:-1,STAR+ 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167780
+#EXTINF:-1,STAR+ 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167781
+#EXTINF:-1,STAR+ 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167782
+#EXTINF:-1,STAR+ 5
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167784
+#EXTINF:-1,STAR+ 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167783
+#EXTINF:-1,STAR+ 6
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/167785
+#EXTINF:-1,STARZ PLUS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/142379
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45708
+#EXTINF:-1,PREMIERE CLUBES HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45995
+#EXTINF:-1,PREMIERE CLUBES
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45994
+#EXTINF:-1,PREMIERE CLUBES ALTERNATIVO FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47109
+#EXTINF:-1,PREMIERE CLUBES ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47010
+#EXTINF:-1,PREMIERE CLUBES ALTERNATIVOS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46935
+#EXTINF:-1,PREMIERE 2 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45702
+#EXTINF:-1,PREMIERE 2 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45983
+#EXTINF:-1,PREMIERE 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45982
+#EXTINF:-1,PREMIERE 2 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47006
+#EXTINF:-1,PREMIERE 2 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46930
+#EXTINF:-1,PREMIERE 3 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45703
+#EXTINF:-1,PREMIERE 3 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45985
+#EXTINF:-1,PREMIERE 3 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46931
+#EXTINF:-1,PREMIERE 3 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47007
+#EXTINF:-1,PREMIERE 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45984
+#EXTINF:-1,PREMIERE 4 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45704
+#EXTINF:-1,PREMIERE 4 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45987
+#EXTINF:-1,PREMIERE 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45986
+#EXTINF:-1,PREMIERE 4 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47008
+#EXTINF:-1,PREMIERE 4 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46972
+#EXTINF:-1,PREMIERE 5
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45988
+#EXTINF:-1,PREMIERE 5 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45705
+#EXTINF:-1,PREMIERE 5 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45989
+#EXTINF:-1,PREMIERE 5 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47009
+#EXTINF:-1,PREMIERE 5 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46932
+#EXTINF:-1,PREMIERE 6 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45706
+#EXTINF:-1,PREMIERE 6 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45991
+#EXTINF:-1,PREMIERE 6
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45990
+#EXTINF:-1,PREMIERE 6 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47107
+#EXTINF:-1,PREMIERE 7
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45992
+#EXTINF:-1,PREMIERE 7 FHD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45707
+#EXTINF:-1,PREMIERE 7 ALTERNATIVO HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47108
+#EXTINF:-1,PREMIERE 7 ALTERNATIVO
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46934
+#EXTINF:-1,PREMIERE 7 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/45993
+#EXTINF:-1,PREMIERE 8 HD
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/161487
+#EXTINF:-1,BAIANÃO 2022
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197917
+#EXTINF:-1,CAMP CARIOCA 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46277
+#EXTINF:-1,CAMP CARIOCA 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46278
+#EXTINF:-1,CAMP CARIOCA 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46279
+#EXTINF:-1,CAMP CARIOCA JOGO 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/205912
+#EXTINF:-1,CAMP CARIOCA JOGO 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/205913
+#EXTINF:-1,CAMP CARIOCA ALTERNATIVO 1 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47172
+#EXTINF:-1,CAMP CARIOCA ALTERNATIVO 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47173
+#EXTINF:-1,CATARINENSE 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46158
+#EXTINF:-1,CATARINENSE 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/47133
+#EXTINF:-1,CATARINENSE 2 
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46159
+#EXTINF:-1,CEARENSE 01 2022
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/199160
+#EXTINF:-1,CEARENSE 02 2022
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/199161
+#EXTINF:-1,CEARENSE 03 2022
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/199162
+#EXTINF:-1,CRUZEIRO TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/205911
+#EXTINF:-1,PARANAENSE 01
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200249
+#EXTINF:-1,PARANAENSE 02
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200250
+#EXTINF:-1,PARANAENSE 03
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200251
+#EXTINF:-1,PARANAENSE 04
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200252
+#EXTINF:-1,PARANAENSE 05
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200253
+#EXTINF:-1,PARANAENSE 06
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/200254
+#EXTINF:-1,PAULISTAO 2022 - 1
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212413
+#EXTINF:-1,PAULISTAO 2022 - 2
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212414
+#EXTINF:-1,PAULISTAO 2022 - 3
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212415
+#EXTINF:-1,PAULISTAO 2022 - 4
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212416
+#EXTINF:-1,PAULISTAO 2022 - 5
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212417
+#EXTINF:-1,PAULISTAO 2022 - 6
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/212418
+#EXTINF:-1,SERGIPÃO 2022
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/197918
+#EXTINF:-1,COPA DO BRASIL 01
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/217670
+#EXTINF:-1,COPA DO BRASIL 02
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/217671
+#EXTINF:-1,ATHLETICO PARANAENSE - FURACAO TV
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/220043
+#EXTINF:-1,CHAMPIONS LEAGUE 01
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46137
+#EXTINF:-1,CHAMPIONS LEAGUE 02
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46138
+#EXTINF:-1,CHAMPIONS LEAGUE 03
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46139
+#EXTINF:-1,CHAMPIONS LEAGUE 04
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46140
+#EXTINF:-1,CHAMPIONS LEAGUE 05
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46141
+#EXTINF:-1,CHAMPIONS LEAGUE 06
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46142
+#EXTM3U
+#EXTINF:-1,CA | A&E HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1887
+#EXTINF:-1,CA | ABC East HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1886
+#EXTINF:-1,CA | ABC SPARK HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1884
+#EXTINF:-1,CA | ADDIK (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1882
+#EXTINF:-1,CA | AMC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1880
+#EXTINF:-1,CA | ANIMAL PLANET HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1879
+#EXTINF:-1,CA | BNN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1872
+#EXTINF:-1,CA | BRAVO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1870
+#EXTINF:-1,CA | CRIME & INVESTIGATION HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1869
+#EXTINF:-1,CA | CANAL SAVOIR (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1868
+#EXTINF:-1,CA |  CANAL D (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1827
+#EXTINF:-1,CA | Canada One
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1867
+#EXTINF:-1,CA | CBC CALGARY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1866
+#EXTINF:-1,CA | CBC MONTREAL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1864
+#EXTINF:-1,CA | CTV NEWS CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1830
+#EXTINF:-1,CA | FOOD NETWORK HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1810
+#EXTINF:-1,CA | ZESTE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1688
+#EXTINF:-1,CA | Z TELE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1689
+#EXTINF:-1,CA | YOOPA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1691
+#EXTINF:-1,CA | YES HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1692
+#EXTINF:-1,CA | WILD TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1694
+#EXTINF:-1,CA | WGN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1695
+#EXTINF:-1,CA | WEATHER NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1697
+#EXTINF:-1,CA | W NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1698
+#EXTINF:-1,CA | VRAK (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1699
+#EXTINF:-1,CA | VISION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1700
+#EXTINF:-1,CA | VIE (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1701
+#EXTINF:-1,CA | UNIS TV HD (FR) 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1702
+#EXTINF:-1,CA | TVO 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1703
+#EXTINF:-1,CA | TVA SPORTS (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1704
+#EXTINF:-1,CA | TV5 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1705
+#EXTINF:-1,CA | TSN 5 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
+#EXTINF:-1,CA | TSN 4 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
+#EXTINF:-1,CA | TSN 3 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1708
+#EXTINF:-1,CA | TSN 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1709
+#EXTINF:-1,CA | TSN 1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1710
+#EXTINF:-1,CA | TREEHOUSE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1711
+#EXTINF:-1,CA | TELE TOON FRENCH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1713
+#EXTINF:-1,CA | TELE TOON 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1714
+#EXTINF:-1,CA | TMN4E (CRAVE TV 4) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
+#EXTINF:-1,CA | TMN3E (CRAVE TV 3) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
+#EXTINF:-1,CA | TMN2E (CRAVE TV 2) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
+#EXTINF:-1,CA | CRAVE  1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
+#EXTINF:-1,CA | TLC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
+#EXTINF:-1,CA | TFO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1720
+#EXTINF:-1,CA | TELE QUEBEC (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1721
+#EXTINF:-1,CA | TCM HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1723
+#EXTINF:-1,CA | SPORTSNET WORLD HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1724
+#EXTINF:-1,CA | SPORTSNET WEST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1726
+#EXTINF:-1,CA | SPORTSNET PACIFIC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1727
+#EXTINF:-1,CA | SPORTSNET ONTARIO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1728
+#EXTINF:-1,CA | SPORTSNET ONE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1729
+#EXTINF:-1,CA | SPORTSNET 360 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1730
+#EXTINF:-1,CA | SILVER SCREEN CLASSICS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1731
+#EXTINF:-1,CA | SLICE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1732
+#EXTINF:-1,CA | THE SHOPPING NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1733
+#EXTINF:-1,CA | SUPER ECRAN 4 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1735
+#EXTINF:-1,CA | SUPER ECRAN 3 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1736
+#EXTINF:-1,CA | SUPER ECRAN 2 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1737
+#EXTINF:-1,CA | SUPER ECRAN 1 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1738
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1740
+#EXTINF:-1,CA | S SERIES +
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1744
+#EXTINF:-1,CA | RDS INFO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1745
+#EXTINF:-1,CA | RDS2 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1746
+#EXTINF:-1,CA | RDS (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1747
+#EXTINF:-1,CA | ICI RDI (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1748
+#EXTINF:-1,CA | PARAMOUNT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1749
+#EXTINF:-1,CA | Prise (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1750
+#EXTINF:-1,CA | PEACHTREE TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1751
+#EXTINF:-1,CA | PBS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1752
+#EXTINF:-1,CA | OWN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1753
+#EXTINF:-1,CA | ONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1755
+#EXTINF:-1,CA | OMNI 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1756
+#EXTINF:-1,CA | OMNI 1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1757
+#EXTINF:-1,CA | OLN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1758
+#EXTINF:-1,CA | NTV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1759
+#EXTINF:-1,CA | NICKTOON HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1760
+#EXTINF:-1,CA | NFL Network
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1761
+#EXTINF:-1,CA | NBC WEST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1762
+#EXTINF:-1,CA | NBC EAST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1763
+#EXTINF:-1,CA | NBA TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1764
+#EXTINF:-1,CA | MUCH MUSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1765
+#EXTINF:-1,CA | MTV2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1766
+#EXTINF:-1,CA | MTV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1767
+#EXTINF:-1,CA | MOVIETIME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1768
+#EXTINF:-1,CA | MOI ET CIE (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1771
+#EXTINF:-1,CA | MLB NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1772
+#EXTINF:-1,CA | METEO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1774
+#EXTINF:-1,CA | MAX (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1775
+#EXTINF:-1,CA | TELEMAGINO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1778
+#EXTINF:-1,CA | LIFETIME HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1779
+#EXTINF:-1,CA | KTLA 5
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1781
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1782
+#EXTINF:-1,CA | IFC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1783
+#EXTINF:-1,CA | ID (INVESTIGATION DISCOVERY) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1784
+#EXTINF:-1,CA | ICI VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1785
+#EXTINF:-1,CA | ICI MONTREAL (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1786
+#EXTINF:-1,CA | HLN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1788
+#EXTINF:-1,CA | HISTORIO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1789
+#EXTINF:-1,CA | HISTORY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1790
+#EXTINF:-1,CA | HGTV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1791
+#EXTINF:-1,CA | HBO 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1792
+#EXTINF:-1,CA | HBO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1793
+#EXTINF:-1,CA | H2 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1794
+#EXTINF:-1,CA | GUSTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1795
+#EXTINF:-1,CA | GSN (GAME SHOW NETWORK) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1796
+#EXTINF:-1,CA | GOLF HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1797
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1798
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1799
+#EXTINF:-1,CA | GLOBAL HALIFAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1800
+#EXTINF:-1,CA | GLOBAL CALGARY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1801
+#EXTINF:-1,CA | NATIONAL GEOGRAPHIC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1802
+#EXTINF:-1,CA | GAME TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1803
+#EXTINF:-1,CA | FYI HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1804
+#EXTINF:-1,CA | MOTOR TREND HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1805
+#EXTINF:-1,CA | FOX NEWS CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1807
+#EXTINF:-1,CA | FOX WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1808
+#EXTINF:-1,CA | FOX EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1809
+#EXTINF:-1,CA | FAMILY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1811
+#EXTINF:-1,CA | EVASION (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1814
+#EXTINF:-1,CA | E! HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1817
+#EXTINF:-1,CA | DTOUR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1818
+#EXTINF:-1,CA | DISNEY FRENCH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1819
+#EXTINF:-1,CA | DISNEY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1820
+#EXTINF:-1,CA | DOCUMENTARY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1821
+#EXTINF:-1,CA | DISNEY JR HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1822
+#EXTINF:-1,CA | DIY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1823
+#EXTINF:-1,CA | DISCOVERY CANADA HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1824
+#EXTINF:-1,CA | DEJAVIEW
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1825
+#EXTINF:-1,CA | DAYSTAR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1826
+#EXTINF:-1,CA | CW11
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1828
+#EXTINF:-1,CA | CTV 2 OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1832
+#EXTINF:-1,CA | CTV TORONTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1834
+#EXTINF:-1,CA | CTV OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1835
+#EXTINF:-1,CA | CTV MONTREAL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1836
+#EXTINF:-1,CA | CTV Calgary
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1838
+#EXTINF:-1,CA | CPAC (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1839
+#EXTINF:-1,CA | CPAC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1840
+#EXTINF:-1,CA | CP24
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1841
+#EXTINF:-1,CA | COTTAGE LIFE TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1842
+#EXTINF:-1,CA | COOKING CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1844
+#EXTINF:-1,CA | CINEPOP 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1845
+#EXTINF:-1,CA | CNN INTERNATIONAL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1846
+#EXTINF:-1,CA | CNN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1847
+#EXTINF:-1,CA | CNBC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1848
+#EXTINF:-1,CA | CARTOON NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1849
+#EXTINF:-1,CA | CMT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1850
+#EXTINF:-1,CA | COMEDY NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1852
+#EXTINF:-1,CA | CTV COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1853
+#EXTINF:-1,CA | TRAVEL ESCAPE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1854
+#EXTINF:-1,CA | CITY TV CALGARY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1855
+#EXTINF:-1,CA | CHCH HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1857
+#EXTINF:-1,CA | CBS WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1858
+#EXTINF:-1,CA | CBS EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1859
+#EXTINF:-1,CA | CBC NEWS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1860
+#EXTINF:-1,CA | CBC VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1861
+#EXTINF:-1,CA | CBC TORONTO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1862
+#EXTINF:-1,CA | CBC OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1863
+#EXTINF:-1,CA | CBC HALIFAX HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1865
+#EXTINF:-1,CA | SYFY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1873
+#EXTINF:-1,CA | BBC WORLD NEWS 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1874
+#EXTINF:-1,CA | SMITHSONIAN CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1876
+#EXTINF:-1,CA | APTN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1877
+#EXTINF:-1,CA | CP24 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1878
+#EXTINF:-1,CA | AHC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1881
+#EXTINF:-1,CA | ADULT SWIM HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1883
+#EXTINF:-1,CA | ABC West HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1885
+#EXTINF:-1,CA | CTV Drama
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3982
+#EXTINF:-1,CA | CTV Halifax
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3983
+#EXTM3U
+#EXTINF:-1,PT: DC TV (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
+#EXTINF:-1,PT: MARVEL II (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
+#EXTINF:-1,PT: NETFLIX (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
+#EXTINF:-1,PT: HBO PORTUGAL (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
+#EXTINF:-1,PT: MARVEL (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
+#EXTINF:-1,PT: FILMES ACÇÃO (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
+#EXTINF:-1,PT: FILMES CLÁSSICOS (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137495
+#EXTINF:-1,PT: FILMES WESTERN (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137496
+#EXTINF:-1,PT: FILMES COMÉDIA (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
+#EXTINF:-1,PT: FILMES DENZEL WASHINGTON (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137498
+#EXTINF:-1,PT: SYLVESTER STALLONE (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137499
+#EXTINF:-1,PT: JACKIE CHAN ADVENTURES (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137500
+#EXTINF:-1,PT: TOM CRUISE (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137501
+#EXTINF:-1,PT: FILMES THRILLER/TERROR (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137502
+#EXTINF:-1,PT: FILMES SAMUEL L JACKSON (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137503
+#EXTINF:-1,PT: 24/7 STARWARS (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
+#EXTINF:-1,PT: SÉRIES 24/7 (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137505
+#EXTINF:-1,PT: OS MALUCOS DO RISO (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137506
+#EXTINF:-1,PT: APANHADOS (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137507
+#EXTINF:-1,PT: APANHADOS 2 (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137508
+#EXTINF:-1,PT: PORTUGAL A RIR (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137509
+#EXTINF:-1,PT: OS SIMPSONS (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137510
+#EXTINF:-1,PT: RICK AND MORTY (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137511
+#EXTINF:-1,PT: DRAGON BALL SUPER (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
+#EXTINF:-1,PT: FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
+#EXTINF:-1,PT: VINGADORES ANIMAÇÃO (exclusive)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
+#EXTINF:-1,PT: FICTION MOVIES (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
+#EXTINF:-1,PT: ROBOT MOVIES (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137516
+#EXTINF:-1,PT: TOMORROWLAND MUSIC (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137517
+#EXTINF:-1,PT: SLAM (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137518
+#EXTINF:-1,PT: BOOM (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137519
+#EXTINF:-1,PT: PORTUGAL TAL E QUAL (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137520
+#EXTINF:-1,PT: DISNEY + (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137521
+#EXTINF:-1,PT: BACALHAU COM TODOS (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137522
+#EXTINF:-1,PT: TALKING TOM CAT AND FRIENDS (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137523
+#EXTINF:-1,PT: NETFLIX KIDS (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
+#EXTINF:-1,PT: SERTANEJO (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137525
+#EXTINF:-1,PT: MAGIC FOR HUMANS (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137526
+#EXTINF:-1,PT: CINEMA PORTUGAL ( EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137527
+#EXTINF:-1,PT: INSIDE FORMULA 1 (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137528
+#EXTINF:-1,PT: GATO FEDORENTO (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137529
+#EXTINF:-1,PT: OS BATANETES (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137530
+#EXTINF:-1,PT: TOURADAS E MARRADAS (EXCLUSIVE)
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137531
+#EXTM3U
+#EXTINF:0,TR: TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TR: ATV HD
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:0,TR: SHOW HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0,TR: SHOW HD
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:0,TR: Kanal D HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:0,TR: STAR HD
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,TR: STAR HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:0,TR: STAR HD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:0,TR: FOX HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:0,TR: TV8 HD
+http://190.2.148.141:80/bar1118/index.m3u8
+#EXTINF:0,TR: TV8.5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:0,TR: Teve 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:0,TR: 360 HD
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:0,TR: TV 4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0,TR: Beyaz TV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
+#EXTINF:0,TR: Beyaz TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0,TR: TLC TV HD
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0,TR: TLC TV HD
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:0, TR: DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0, TR: DMAX HD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:0, TR: Yaban Tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1031340952.m3u8
+#EXTINF:0, TR: TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TR: Halk Tv
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:0,TR: TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TR: Habertürk HD
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:0,TR: CNN Türk HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+#EXTINF:0,TR: NTV HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+#EXTINF:0,TR: 24 HD
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:0,TR: Tvnet HD
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:0,TR: Haber Global HD
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:0,TR: TGRT Haber
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:0,TR: TRT BELGESEL HD
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:0, TRT SPOR 1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0, TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:0, A SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0, BeIN SPORT 1 HD
+https://www.getupcdn.club/hlslive/14.m3u8
+#EXTINF:0, BeIN SPORT 2 HD
+https://www.getupcdn.club/hlslive/15.m3u8
+#EXTINF:0, BeIN SPORT 3 HD
+https://www.getupcdn.club/hlslive/16.m3u8
+#EXTINF:0, Ssport 1 HD
+https://www.getupcdn.club/hlslive/190.m3u8
+#EXTINF:0, Ssport 2 HD
+https://www.getupcdn.club/hlslive/401.m3u8
+#EXTINF:0, group-title="Turkey" - Smart Spor 1 HD
+https://www.getupcdn.club/hlslive/402.m3u8
+#EXTINF:0, group-title="Turkey" - Smart Spor 2 HD
+https://www.getupcdn.club/hlslive/403.m3u8
+#EXTINF:0, Exxen Spor 1 HD
+http://51.210.227.137/hls/stream.m3u8
+#EXTINF:0, Exxen Spor 2 HD
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:0,TR: GSTV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0,TR: A Spor HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTM3U
+#EXTINF:-1,UKSP: SKY SPORTS PL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1515
+#EXTINF:-1,UKSP: SKY SPORTS NEWS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1516
+#EXTINF:-1,UKSP: SKY SPORTS MIX HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1517
+#EXTINF:-1,UKSP: SKY SPORTS MAIN EVENT HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1518
+#EXTINF:-1,UKSP: SKY SPORTS GOLF HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1519
+#EXTINF:-1,UKSP: SKY SPORTS FOOTBALL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1520
+#EXTINF:-1,UKSP: SKY SPORTS F1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1521
+#EXTINF:-1,UKSP: SKY SPORTS CRICKET HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1522
+#EXTINF:-1,UKSP: SKY SPORTS ARENA HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1523
+#EXTINF:-1,UKSP: SKY SPORTS ACTION HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1524
+#EXTINF:-1,UKSP: BT SPORTS 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1526
+#EXTINF:-1,UKSP: BT SPORTS 1
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1527
+#EXTINF:-1,UKSP: BT SPORTS 3
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1525
+#EXTINF:-1,UKSP: BT SPORT ESPN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1528
+#EXTINF:-1,UKSP: LIVERPOOL FC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1529
+#EXTINF:-1,UKSP: BOXNATION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1530
+#EXTINF:-1,UKSP: PREMIER SPORTS 1
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1531
+#EXTINF:-1,UKSP: EIR SPORTS 1
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1532
+#EXTINF:-1,UKSP: EIR SPORTS 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1533
+#EXTINF:-1,UKSP: MOTOR  TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1537
+#EXTINF:-1,UKSP: RACING
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1538
+#EXTINF:-1,UKSP: MAN UNITED TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1539
+#EXTINF:-1,UKMOVIES:  SKY PREMIERE PLUS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1543
+#EXTINF:-1,UKMOVIES:  SKY SHOWCASE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1544
+#EXTINF:-1,UKMOVIES: SKY ACTION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1545
+#EXTINF:-1,UKMOVIES: SKY COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1546
+#EXTINF:-1,UKMOVIES: SKY CRIME THRILLER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1547
+#EXTINF:-1,UKMOVIES: SKY DISNEY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1548
+#EXTINF:-1,UKMOVIES: SKY DRAMA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1549
+#EXTINF:-1,UKMOVIES: SKY FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1550
+#EXTINF:-1,UKMOVIES: SKY HITS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1552
+#EXTINF:-1,UKMOVIES: SKY PREMIERE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1553
+#EXTINF:-1,UKMOVIES: SKY GREATS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1551
+#EXTINF:-1,UKMOVIES: SKY SCI &  FI HORROR  FHD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1554
+#EXTINF:-1,UKMOVIES: SKY SELECT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1555
+#EXTINF:-1,UKMOVIES: SKY THRILLER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1556
+#EXTINF:-1,UKMOVIES: SONY MOVIES
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1557
+#EXTINF:-1,UKMOVIES: FILM 4
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1559
+#EXTINF:-1,UKMOVIES: TCM
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1560
+#EXTINF:-1,UKDOC:  HOME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1637
+#EXTINF:-1,UKDOC: ANIMAL  PLANET
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1638
+#EXTINF:-1,UKDOC: CRIME INVESTIGATION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1639
+#EXTINF:-1,UKDOC: DISCOVERY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1640
+#EXTINF:-1,UKDOC: DISCOVERY  TURBO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1641
+#EXTINF:-1,UKDOC: DISCOVERY HISTORY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1642
+#EXTINF:-1,UKDOC: DISCOVERY SCIENCE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1643
+#EXTINF:-1,UKDOC: EDEN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1645
+#EXTINF:-1,UKDOC: FOOD NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1646
+#EXTINF:-1,UKDOC: DISCOVERY SHED
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1644
+#EXTINF:-1,UKDOC: GOOD FOOD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1647
+#EXTINF:-1,UKDOC: H2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1648
+#EXTINF:-1,UKDOC: HISTORY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1649
+#EXTINF:-1,UKDOC: HOME&HEALTH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1650
+#EXTINF:-1,UKDOC: HORSE COUNTRY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1651
+#EXTINF:-1,UKDOC: ID
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1652
+#EXTINF:-1,UKDOC: NAT GEO WILD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1653
+#EXTINF:-1,UKDOC: NATIONAL  GEO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1654
+#EXTINF:-1,UKDOC: TLC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1655
+#EXTINF:-1,UKDOC: TRAVEL CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1656
+#EXTINF:-1,UKDOC: YESTERDAY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1657
+#EXTINF:-1,UKMUSIC: MTV BASE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1615
+#EXTINF:-1,UKMUSIC: MTV CLASSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1616
+#EXTINF:-1,UKMUSIC: MTV DANCE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1617
+#EXTINF:-1,UKMUSIC: MTV HITS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1618
+#EXTINF:-1,UKMUSIC: MTV MUSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1619
+#EXTINF:-1,UKMUSIC: MTV ROCKS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1620
+#EXTINF:-1,UKMUSIC: VH1
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1621
+#EXTINF:-1,UKNEWS: ALJAZEERA NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1607
+#EXTINF:-1,UKNEWS: BBC NEWS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1608
+#EXTINF:-1,UKNEWS: BBC WORLD NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1609
+#EXTINF:-1,UKNEWS: BLOOMBERG NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1610
+#EXTINF:-1,UKNEWS: EURONEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1611
+#EXTINF:-1,UKNEWS: SKY  NEWS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1613
+#EXTINF:-1,UKNEWS: RTE News
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1614
+#EXTINF:-1,UKCART: BABY TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1622
+#EXTINF:-1,UKCART: BOOMERANG
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1623
+#EXTINF:-1,UKCART: CARTOON NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1624
+#EXTINF:-1,UKCART: CBEEBIES
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1625
+#EXTINF:-1,UKCART: DISNEY  CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1626
+#EXTINF:-1,UKCART: DISNEY JUNIOR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1627
+#EXTINF:-1,UKCART: DISNEY XD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1628
+#EXTINF:-1,UKCART: TINY POP
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1629
+#EXTINF:-1,UKCART: NICK  JR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1630
+#EXTINF:-1,UKCART: NICK JR  TOO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1631
+#EXTINF:-1,UKCART: NICKELODEON
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1632
+#EXTINF:-1,UKCART: NICKTOONS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1633
+#EXTINF:-1,UKCART: Cartoon Network
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1635
+#EXTINF:-1,UKCART: Cartoonito
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1636
+#EXTINF:-1,UKINT: AAJ TAK UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1658
+#EXTINF:-1,UKINT: BRIT ASIA TV UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1660
+#EXTINF:-1,UKINT: COLORS UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1661
+#EXTINF:-1,UKINT: PTC PUNJABI UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1664
+#EXTINF:-1,UKINT: SONY MAX UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1667
+#EXTINF:-1,UKINT: SONY SAB UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1669
+#EXTINF:-1,UKINT: SONY TV ASIA UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1670
+#EXTINF:-1,UKINT: STAR BHARAT UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1671
+#EXTINF:-1,UKINT: STAR GOLD UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1672
+#EXTINF:-1,UKINT: STAR PLUS UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1673
+#EXTINF:-1,UKINT: ZEE TV UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1674
+#EXTINF:-1,UKINT: B4U Movies 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1676
+#EXTINF:-1,UKINT: B4U Music 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1677
+#EXTINF:-1,UKINT: Colors Cineplex UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1678
+#EXTINF:-1,UKINT: Colors Rishtey UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1679
+#EXTINF:-1,UKINT: GEO KAHANI UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1681
+#EXTINF:-1,UKINT: GEO NEWS UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1682
+#EXTINF:-1,UKINT: GEO TV UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1683
+#EXTINF:-1,UKINT: HUM EUROPE UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1684
+#EXTINF:-1,UKINT: SAMAA UK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1685
+#EXTINF:-1,UKINT: ROK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1686
+#EXTINF:-1,UKINT: URDU 1 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1687
+#EXTINF:-1,UKENT: BBC ONE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1576
+#EXTINF:-1,UKENT: BBC TWO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1577
+#EXTINF:-1,UKENT: ITV 3 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1578
+#EXTINF:-1,UKENT: ITV 4 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1579
+#EXTINF:-1,UKENT: ITV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1580
+#EXTINF:-1,UKENT: CHANNEL  4
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1581
+#EXTINF:-1,UKENT: CHANNEL 5
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1582
+#EXTINF:-1,UKENT: S4C
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1583
+#EXTINF:-1,UKENT: SKY 1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1584
+#EXTINF:-1,UKENT: SKY 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1585
+#EXTINF:-1,UKENT: SKY ARTS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1586
+#EXTINF:-1,UKENT: DAVE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1587
+#EXTINF:-1,UKENT: FOX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1588
+#EXTINF:-1,UKENT: GOLD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1589
+#EXTINF:-1,UKENT: E4
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1590
+#EXTINF:-1,UKENT: RTE  ONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1591
+#EXTINF:-1,UKENT: RTE TWO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1592
+#EXTINF:-1,UKENT: TG 4
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1593
+#EXTINF:-1,UKENT: PICK TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1594
+#EXTINF:-1,UKENT:  LIFETIME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1595
+#EXTINF:-1,UKENT:  ITV2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1596
+#EXTINF:-1,UKENT: ALIBI
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1597
+#EXTINF:-1,UKENT: 5 STAR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1598
+#EXTINF:-1,UKENT: 4 SEVEN  HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1600
+#EXTINF:-1,UKENT: UNIVERSAL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1601
+#EXTINF:-1,UKENT: CBS JUSTICE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1602
+#EXTINF:-1,UKENT: CBS DRAMA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1603
+#EXTINF:-1,UKENT: COMEDY CENTRAL  HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1604
+#EXTINF:-1,UKENT: COMEDY CENTRAL EXTRA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1605
+#EXTINF:-1,UKENT: CBS REALITY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1606
+#EXTINF:-1,UK: SKY NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2577
+#EXTM3U
+#EXTINF:-1,US: PARAMOUNT CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2902
+#EXTINF:-1,US: PEOPLE TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2903
+#EXTINF:-1,US: POP
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2904
+#EXTINF:-1,US: PURSUIT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2905
+#EXTINF:-1,US: REELZ
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2906
+#EXTINF:-1,US: REVOLT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2907
+#EXTINF:-1,US: SMITHSONIAN EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2909
+#EXTINF:-1,US: SMITHSONIAN WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2910
+#EXTINF:-1,US: SUNDANCE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2912
+#EXTINF:-1,US: SYFY 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2913
+#EXTINF:-1,US: TASTEMADE EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2915
+#EXTINF:-1,US: TBS EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2916
+#EXTINF:-1,US: TBS WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2917
+#EXTINF:-1,US: TCM
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2918
+#EXTINF:-1,US: TLC EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2919
+#EXTINF:-1,US: TLC WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2920
+#EXTINF:-1,US: TNT 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2922
+#EXTINF:-1,US: TRAVEL CHANNEL WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2924
+#EXTINF:-1,US: TRUTV 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2925
+#EXTINF:-1,US: TRUTV WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2926
+#EXTINF:-1,US: TV LAND EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2927
+#EXTINF:-1,US: TV LAND WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2928
+#EXTINF:-1,US: TV ONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2929
+#EXTINF:-1,US: USA NETWORK 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2930
+#EXTINF:-1,US: USA NETWORK WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2931
+#EXTINF:-1,US: VH1 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2932
+#EXTINF:-1,US: VH1 WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2933
+#EXTINF:-1,US: VICELAND
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2934
+#EXTINF:-1,US: WE TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2935
+#EXTINF:-1,US: WEATHER CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2936
+#EXTINF:-1,US: WGN 9
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2937
+#EXTINF:-1,US: WWE NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2938
+#EXTINF:-1,US: ACTIONMAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2939
+#EXTINF:-1,US: CINEMAX EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940
+#EXTINF:-1,US: CINEMAX WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941
+#EXTINF:-1,US: HBO 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
+#EXTINF:-1,US: HBO COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943
+#EXTINF:-1,US: HBO FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945
+#EXTINF:-1,US: HBO SIGNATURE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
+#EXTINF:-1,US: HBO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947
+#EXTINF:-1,US: HBO ZONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948
+#EXTINF:-1,US: MOREMAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2949
+#EXTINF:-1,US: OUTERMAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2950
+#EXTINF:-1,US: SHOWTIME BEYOND
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2951
+#EXTINF:-1,US: SHOWTIME EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2952
+#EXTINF:-1,US: SHOWTIME EXTREME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2953
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2954
+#EXTINF:-1,US: SHOWTIME NEXT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955
+#EXTINF:-1,US: SHOWTIME SHOWCASE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2956
+#EXTINF:-1,US: SHOWTIME WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957
+#EXTINF:-1,US: SHOWTIME WOMEN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2958
+#EXTINF:-1,US: STARZ CINEMA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2959
+#EXTINF:-1,US: STARZ COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2960
+#EXTINF:-1,US: STARZ EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2961
+#EXTINF:-1,US: STARZ EDGE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2962
+#EXTINF:-1,US: STARZ IN BLACK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2963
+#EXTINF:-1,US: STARZ KIDS&FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2964
+#EXTINF:-1,US: STARZ WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2965
+#EXTINF:-1,US: STARZ ENCORE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2966
+#EXTINF:-1,US: STARZENCORE ACTION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2967
+#EXTINF:-1,US: STARZ ENCORE CLASSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2968
+#EXTINF:-1,US: STARZ ENCORE FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2969
+#EXTINF:-1,US: STARZ ENCORE SUSPENSE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2970
+#EXTINF:-1,US: STARZ ENCORE WESTERNS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2971
+#EXTINF:-1,US: THE MOVIE CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2972
+#EXTINF:-1,US: THE MOVIE CHANNEL XTRA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2973
+#EXTINF:-1,US: THRILLERMAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2974
+#EXTINF:-1,US: EPIX DRIVE-IN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2975
+#EXTINF:-1,US: EPIX2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2976
+#EXTINF:-1,US: EPIX HITS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2977
+#EXTINF:-1,US: EPIX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2978
+#EXTINF:-1,US: HDNET
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2979
+#EXTINF:-1,US: INDIE PLEX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2980
+#EXTINF:-1,US: MOVIE PLEX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2981
+#EXTINF:-1,US: RETRO PLEX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2982
+#EXTINF:-1,US: BBC AMERICA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2985
+#EXTINF:-1,US: FOX NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2987
+#EXTINF:-1,US: MSNBC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2988
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2989
+#EXTINF:-1,US: BLOOMBERG
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2990
+#EXTINF:-1,US: ESPN 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2991
+#EXTINF:-1,US: ESPN 2 FHD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2994
+#EXTINF:-1,US: ESPN DEPORTES FHD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3004
+#EXTINF:-1,US: ESPN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005
+#EXTINF:-1,US: ESPN News US HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3008
+#EXTINF:-1,US: ESPN U HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3030
+
