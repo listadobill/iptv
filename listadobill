@@ -1,5 +1,9 @@
 #EXTINF:#EXTINF:#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="Lista", Lista 1 - Canais Permatentes - https://iptv-org.github.io/iptv/countries/br.m3u
+https://video.wixstatic.com/video/f21f2b_7ba2c8ab7bae42b98a2e7635400d9448/360p/mp4/file.mp4
+
 #EXTINF: Lista 1
 
 ######## https://iptv-org.github.io/iptv/countries/br.m3u #########
@@ -286,6 +290,14 @@ https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah! (720p) [Not 24/7]
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="Lista", Lista 2 - Canais Permatentes
+https://video.wixstatic.com/video/f21f2b_7ba2c8ab7bae42b98a2e7635400d9448/360p/mp4/file.mp4
 
 #### Lista 2 #####
 
@@ -2544,8 +2556,8 @@ plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLO
 #EXTINF:-1 group-title="Rádios" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://i.imgur.com/I5y8DaH.png" tvg-name=""radio=true,Rádio Princesa FM
 plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://noasrv.caster.fm:10124/stream
 
-
-#### Lista 3 canais fechados ###
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="Lista", Lista 3  - Canais Fechados, muitas vezes não funcionam - https://iptv-org.github.io/iptv/countries/br.m3u
+https://video.wixstatic.com/video/f21f2b_7ba2c8ab7bae42b98a2e7635400d9448/360p/mp4/file.mp4
 
 #EXTM3U 
 #EXTINF:-1,RECORDTV SP FHD
