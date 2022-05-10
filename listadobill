@@ -3,6 +3,43 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/220px-The_Pirate_Bay_logo.svg.png" group-title="Lista", Lista 1 - Canais Permatentes - https://iptv-org.github.io/iptv/countries/br.m3u
 https://video.wixstatic.com/video/f21f2b_7ba2c8ab7bae42b98a2e7635400d9448/360p/mp4/file.mp4
 
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NSC SANTA CATARINA
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Blumenau FHD
+http://b5.vc:80/Beto0011/87422Be/72004.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Blumenau HD
+http://b5.vc:80/Beto0011/87422Be/72005.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Blumenau SD
+http://b5.vc:80/Beto0011/87422Be/131192.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Centro Oeste FHD
+http://b5.vc:80/Beto0011/87422Be/135432.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Centro Oeste HD
+http://b5.vc:80/Beto0011/87422Be/135433.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Centro Oeste SD
+http://b5.vc:80/Beto0011/87422Be/135434.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Chapeco FHD
+http://b5.vc:80/Beto0011/87422Be/131174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Chapeco HD
+http://b5.vc:80/Beto0011/87422Be/72008.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Chapeco SD
+http://b5.vc:80/Beto0011/87422Be/131190.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Criciuma FHD
+http://b5.vc:80/Beto0011/87422Be/135426.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Criciuma HD
+http://b5.vc:80/Beto0011/87422Be/135427.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Criciuma SD
+http://b5.vc:80/Beto0011/87422Be/135428.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis FHD
+http://b5.vc:80/Beto0011/87422Be/72010.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis HD
+http://b5.vc:80/Beto0011/87422Be/131183.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis SD
+http://b5.vc:80/Beto0011/87422Be/131144.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Joinville HD
+http://b5.vc:80/Beto0011/87422Be/131167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Joinville SD
+http://b5.vc:80/Beto0011/87422Be/91032.ts?checkedby:iptvcat.com
+
 #EXTINF: Lista 1
 
 ######## https://iptv-org.github.io/iptv/countries/br.m3u #########
