@@ -2,5 +2,29 @@
 
 ######## CXTV #########
 
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23b8f2066e0f677481526cdb1e77ba.webp" group-title="Agronegócio",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="FILMES", BONS TEMPOS
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1163458865.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classiquew_site.png" group-title="FILMES", CLASSIC TV - FAROESTE
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w48666736.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classiquew_site.png" group-title="FILMES", CLASSIC TV - CULT MOVIES
+https://stmv1.srvif.com/classique/classique/chunklist_w534141831.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="FILMES", CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1669781482.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES", GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w110657061.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.webp" group-title="FILMES", GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1988776734.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75cea551f496b790ce1326e2a203366d.webp" group-title="FILMES", HITS TV
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w1160481249.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="FILMES", TV.JSID
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1df98ae4a11ac54fcc8117d21c8d6d7a.webp" group-title="FILMES", UP WEBTV
+https://stmv1.srvstm.com/paulo4642/paulo4642/chunklist_w1645272818.m3u8
