@@ -28,3 +28,19 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1df98ae4a11ac54fcc8117d21c8d6d7a.webp" group-title="FILMES", UP WEBTV
 https://stmv1.srvstm.com/paulo4642/paulo4642/chunklist_w1645272818.m3u8
+
+
+
+
+
+
+######## FILMES #########
+
+#EXTINF:-1 tvg-id="Indiana Jones" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://nomoremag.com/wp-content/uploads/2020/07/Cacadores-da-Arca-Perdida.jpeg" group-title="Indiana Jones", Os Caçadores da Arca Perdida (Dublado) - 1981
+http://livrobolha.cf:8080/d/RedeCanais/RedeCanais/RCFServer4/ondemand/INDNAJNSEOSCACDRSDARC.mp4?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIyIDExOjE1OjU5IFBNJmhhc2hfdmFsdWU9S2tDNFhVL1JYdDBZZW5pR1ZWcU1Wdz09JnZhbGlkbWludXRlcz00ODAmaWQ9NQ==&wmsAuthSign=&attachment=true&nimblesessionid=312524
+
+
+#EXTINF:-1 tvg-id="Indiana Jones" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/98/02/20172661.jpg" group-title="Indiana Jones", Templo da Perdição (Dublado) - 1984
+http://gldeville.gq:8080/d/RedeCanais/RedeCanais/RCFServer4/ondemand/INDNAJNSTMPDPRDCAO.mp4?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIyIDI6MDQ6MzkgQU0maGFzaF92YWx1ZT0vZXRDSWdjUElhNDR4WXVBdnlWZXB3PT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&wmsAuthSign=&attachment=true&nimblesessionid=312687
+
+
